@@ -21,7 +21,7 @@ const devConfig = {
             exposes: {
                 './core': './src/bootstrap'
             },
-            // shared: ['react', 'react-dom']
+            shared: ['react', 'react-dom']
         })
     ]
 }
