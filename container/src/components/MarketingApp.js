@@ -1,4 +1,4 @@
-import { mount } from '@marketing/core'
+import { mount } from 'marketing/core'
 import React, { useRef, useEffect } from 'react'
 
 export default () => {
